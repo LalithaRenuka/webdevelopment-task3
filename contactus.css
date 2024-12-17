@@ -1,0 +1,16 @@
+body {
+    background-color: #E6E6FA;
+}
+h2 {
+    color: #333;
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+table {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    font-size: 16px;
+padding:7;
+}
