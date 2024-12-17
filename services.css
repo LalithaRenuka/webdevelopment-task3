@@ -1,0 +1,16 @@
+body {
+    background-color: lightcyan;
+}
+h2 {
+    color: #333;
+    text-align: center;
+}
+a {
+    display: block;
+font-family:cursive, Lucida Handwriting;
+    text-decoration: none;
+    text-align: center;
+    margin: 15px;
+font-size: 25px;
+color: #333;
+}
