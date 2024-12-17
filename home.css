@@ -1,0 +1,20 @@
+body {
+    background-color: #F0F8FF;
+}
+h2 {
+    color: #333;
+    text-align: center;
+}
+p {
+    font-size: 20px;
+    text-align: center;
+    margin: 20px;
+}
+a
+{
+	 font-family:cursive, Lucida Handwriting;
+font-weight: bold;
+    color: #333;
+    text-decoration: none;
+padding:20;
+}
