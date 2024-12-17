@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    color: #333;
+    background-color: #E0FFFF; 
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    color: #333; 
+}
+
+p {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    font-size: 16px;
+}
+
+a {
+    font-family:cursive, Lucida Handwriting;
+font-weight: bold;
+    color: #333;
+    text-decoration: none;
+}
+
+table {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    font-size: 16px;
+}
+ li {
+font-family: Arial, sans-serif;
+    line-height: 1.6;
+    font-size: 16px;
+
+}
+
+
+
